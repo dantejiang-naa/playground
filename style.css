@@ -1,4 +1,8 @@
 #reference-button {
+  display: inline-block;
   background-color: red;
   padding: 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
 }
